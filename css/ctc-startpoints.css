@@ -1,0 +1,48 @@
+/*---------- Google map container ----------------------*/
+#sp-wrapper {
+    width: 100%;
+    margin: 0 auto;
+    background: #99c;
+}
+
+#sp-main {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    background: #9c9;
+}
+
+#map-canvas {
+    height: 500px;    
+}
+
+#map-canvas img {
+    max-width: none;
+}
+
+/*
+#sp-sidebar {
+    width: 25%;
+    float: right;
+    margin: 0 auto;
+    background: #c9c; 
+}
+
+#map-info, map-info-desc {
+    padding: 0px 10px;
+}
+*/
+
+#sp-footer {
+    clear: both;
+    margin: 0 auto;
+}
+
+.sp-info-box-title {
+    font-weight: bold;
+}
+
+.sp-info-box-content {
+    font-weight: normal;
+}
+
